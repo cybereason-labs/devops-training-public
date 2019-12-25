@@ -35,7 +35,7 @@
 3. Export the database data from the container to the host:
     - write code to do that method.
 4. Manipulate the exported data:
-    - remove unnecessary data (like like object id).
+    - remove unnecessary data (like object id).
     - capitalize string where needed.
     - hide clear password.
     - sort the data by 'firstname' field.
