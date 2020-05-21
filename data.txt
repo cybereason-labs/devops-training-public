@@ -1,5 +1,5 @@
-firstname: dor, lastname: shaul, username: dordor1, password: Pasfdqwhi2
-firstname: omri, lastname: cohen, username: omrico, password: VhFjkd221
-firstname: amattzia, lastname: brandwein, username: amatz, password: amBrand2
-firstname: ben, lastname: raz, username: benraz9, password: bmk93087fy73
-firstname: hadar, lastname: kraus, username: hkraus, password: huGi3Fk39
+firstname: barney, lastname: stinson, username: legendary2, password: Pasfdqwhi2
+firstname: ted, lastname: mosby, username: drX, password: VhFjkd221
+firstname: marshall, lastname: eriksen, username: marshmallow, password: amBrand2
+firstname: lily, lastname: aldrin, username: lilypad9, password: bmk93087fy73
+firstname: robin, lastname: scherbatsky, username: robintsky, password: huGi3Fk39
