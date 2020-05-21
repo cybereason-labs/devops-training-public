@@ -22,30 +22,30 @@
 
 #### Exercise requirements:
 
-1. docker account.
-2. docker service installed on the host.
-3. create your own public repository which will be shared with us.
+1. DockerHub account.
+2. Docker service installed on the host.
+3. Create your own public repository which will be shared with us.
 #### Exercise flow:
-1. pull mongo version 4.0.4 container.
-2. create new database inside the mongo container:
+1. Pull mongo version 4.0.4 container.
+2. Create new database inside the mongo container:
     - database data is in 'data.txt' file. 
     - database name: 'cr-db'.
     - collections name 'users'.
     - you can use mongo native commands inside the container or write code. 
-3. export the database data from the container to the host:
+3. Export the database data from the container to the host:
     - write code to do that method.
-4. manipulate the exported data:
-    - remove unnecessary data (like like object id).
+4. Manipulate the exported data:
+    - remove unnecessary data (like object id).
     - capitalize string where needed.
     - hide clear password.
     - sort the data by 'firstname' field.
-5. show web page with the manipulated data,
-you can use web server like nginx or use web framework in your code. 
+5. Show web page with the manipulated data,
+you can use web server like nginx or any web framework as desired. 
 
 #### Share your repo:
-1. inside your repository go to 'settings'.
-2. select 'Collaboration'.
-3. add the following users:
+1. Inside your repository go to 'settings'.
+2. Select 'Collaboration'.
+3. Add the following users:
     - **cr-benraz**
     - **cr-dorshaul**
 4. let us know when you done.
