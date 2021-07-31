@@ -48,6 +48,7 @@ you can use web server like nginx or any web framework as desired.
 3. Add the following users:
     - **cr-benraz**
     - **cr-dorshaul**
+    - **cr-eranayash**
 4. let us know when you done.
 
 ###
